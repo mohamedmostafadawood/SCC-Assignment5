@@ -1,0 +1,20 @@
+human_request, chatbot_response, creation_date
+Hi there can you help me find a restaurant in the area?, Sure what type of cuisine are you in the mood for?, 2021-01-01 12:00:00
+I'm in the mood for Italian food tonight, Great let me pull up some options for you, 2021-01-01 12:01:00
+I'm looking for something romantic for a date, I recommend checking out La Trattoria it has a cozy atmosphere and great Italian food, 2021-01-01 12:03:00
+Sounds perfect what's the address?, The address is 123 Main St., 2021-01-01 12:04:00
+Thanks so much can you make a reservation for two at 7 pm?, Of course let me check availability for you, 2021-01-01 12:05:00
+Sorry can we make it for 8 pm instead?, Certainly I've updated your reservation for 8 pm, 2021-01-01 12:06:00
+Great thanks for your help!, You're welcome enjoy your dinner!, 2021-01-01 12:07:00
+Can you give me directions to the restaurant?, Sure thing it's located on Main St. near the intersection of First Ave., 2021-01-02 14:00:00
+I need some help with my account, Of course what can I assist you with?, 2021-01-03 09:00:00
+I can't seem to log in, Let me check your account what's your username?, 2021-01-03 09:02:00
+My username is johndoe123, I see it looks like your account is currently locked. Would you like me to unlock it for you?, 2021-01-03 09:03:00
+Yes please, Okay I've unlocked your account. Please try logging in again, 2021-01-03 09:05:00
+I'm in thanks for your help!, You're welcome happy to assist!, 2021-01-03 09:06:00
+What are the latest product releases?, We've recently released a new line of laptops and smartphones. Would you like more information?, 2021-01-04 15:00:00
+Yes can you tell me more about the laptops?, Certainly we have two models: the X1 and the Y2. The X1 has a larger screen and longer battery life while the Y2 is more lightweight and portable. Which one are you interested in?, 2021-01-04 15:02:00
+I'm interested in the X1, Great the X1 starts at $999 and comes with a 2-year warranty. Would you like to place an order?, 2021-01-04 15:03:00
+Yes I'd like to place an order, Okay please provide your shipping address and payment information., 2021-01-04 15:04:00
+My shipping address is 123 Main St. and my credit card number is 1234-5678-9012-3456, Thanks for the information. Your order has been placed and will be shipped to you within 3-5 business days., 2021-01-04 15:05:00
+Can you help me troubleshoot my internet connection?, Sure what seems to be the problem?, 2021-01-05 10:00:00
